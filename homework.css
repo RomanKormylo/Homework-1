@@ -1,0 +1,92 @@
+header{
+background-color: transparent;
+
+    padding-top: 2%;
+    padding-bottom: 2%;
+text-align: center;
+    color: azure;
+}
+h1#header{
+    text-align: center;
+    color: azure;
+    font-family: "Algerian", Andalus, fantasy;
+   font-size: 140%;
+}
+nav{
+
+    background-color: transparent;
+    height: 100%;
+    width: 5%;
+    float: right;
+    padding-bottom: 1%;
+    padding-top: 1%;
+margin-top: 55%;
+
+}
+a{
+    font-size: 140%;
+    display:block;
+text-decoration: none;
+    color: yellow;
+    padding-right: 10%;
+    padding-left: 1%;
+
+    position: static;
+}
+a:hover{
+    background-color: coral;
+    color: azure;
+}
+
+
+li{
+    margin: 5% 3% 5% 2%;
+    padding: 3% 2% 4% 3%;
+}
+
+footer{
+
+margin-top: 16%;
+
+background-color: blue;
+
+}
+
+body {
+    background-image: url("Fantasy-World-HD-Wallpapers-For-Windows-XP.jpg");
+    background-color: #cccccc;
+
+}
+span{
+    border: solid red 2px;
+}
+
+h2{
+
+    color: azure;
+    font-family: "Castellar", Andalus, fantasy;
+    font-size: 120%;
+}
+
+p{
+    color: azure;
+    font-family: "Times New Roman", Andalus, Serif;
+    font-size: 100%;
+    text-indent: 3%;
+    letter-spacing: 1px;
+}
+p#footer{
+    text-align: center;
+
+}
+
+video{
+    height: 35%;
+    width: 45%;
+    margin-top: 3%;
+}
+
+section#pic{
+padding-top: 6%;
+    color: azure;
+}
